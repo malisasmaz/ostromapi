@@ -1,11 +1,11 @@
-# Preconditions:
+# Preconditions
 
 1. Visual Studio Code
 2. Node.js
 3. Docker Desktop<br />
 The programs in above must be installed.
 
-# Steps to Run this project:
+# Steps to Run this Project
 
 1. Clone the repo
 ```sh
