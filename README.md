@@ -2,7 +2,7 @@
 
 1. Visual Studio Code
 2. Node.js
-3. Docker Desktop
+3. Docker Desktop<br />
 The programs in above must be installed.
 
 # Steps to Run this project:
