@@ -23,6 +23,7 @@ Run `npm run test` command to run tests
 
 # API Documentation 
 https://documenter.getpostman.com/view/9054781/UUy7a3hR
+</br>Created with Postman API Documentation.
 
 # TechStack
 I use TypeScript Express.js and TypeORM to create REST API. Mocha and Chai for tests.
