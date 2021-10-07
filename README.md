@@ -1,8 +1,8 @@
 # Preconditions:
 
-1.Visual Studio Code
-2.Node.js
-3.Docker Desktop
+1. Visual Studio Code
+2. Node.js
+3. Docker Desktop
 The programs in above must be installed.
 
 # Steps to Run this project:
