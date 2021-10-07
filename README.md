@@ -15,8 +15,8 @@ The programs in above must be installed.
 
 # Two options to Run project 
 
-Local: Run `npm run start` command<br />
-Docker: Run `docker-compose up` command
+* Local: Run `npm run start` command<br />
+* Docker: Run `docker-compose up` command
 
 # To Run Tests
 Run `npm run test` command to run tests
