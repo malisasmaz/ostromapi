@@ -21,7 +21,8 @@ Docker: Run `docker-compose up` command
 # To Run Tests
 Run `npm run test` command to run tests
 
-# API documentation: https://documenter.getpostman.com/view/9054781/UUy7a3hR
+# API Documentation 
+https://documenter.getpostman.com/view/9054781/UUy7a3hR
 
 # TechStack
 I use TypeScript Express.js and TypeORM to craete REST API.
