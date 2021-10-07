@@ -28,7 +28,7 @@ https://documenter.getpostman.com/view/9054781/UUy7a3hR
 # TechStack
 I use TypeScript Express.js and TypeORM to create REST API. Mocha and Chai for tests.
 
-1. I used TypeORM because, it is a great option for database processes. TypeORM is an ORM that can run on NodeJS, React Native, etc. Its is support the latest JavaScript features and provide additional features that help you to develop any kind of application that uses databases.
+1. I used TypeORM because, it is a great option for database processes. TypeORM is an ORM that can run on NodeJS, React Native, etc. Its supports the latest JavaScript features and provide additional features that help you to develop any kind of application that uses databases.
 
 2. I used MongoDb Atlas on database side. It is free version, cloud based and online. Better than local options.
 
