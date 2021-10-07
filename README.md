@@ -7,20 +7,36 @@ The programs in above must be installed.
 
 # Steps to Run this project:
 
-1. Open terminal in project folder.
+1. Clone the repo
+```sh
+git clone https://github.com/malisasmaz/ostromapi.git
+```
+2. Open terminal in project folder.
 
-2. Run `npm install` command to install dependencies.<br />
-
-3. Run `npm run build` command to create build.<br />
-
+3. Run command to install dependencies.
+```sh
+npm install
+```
+4. Run command to create build.
+```sh
+npm run build
+```
 # Two options to Run project 
 
-* Local: Run `npm run start` command<br />
-* Docker: Run `docker-compose up` command
+* Local: Run command
+```sh
+npm run start
+```
+* Docker: Run  command
+```sh
+docker-compose up
+```
 
 # To Run Tests
-Run `npm run test` command to run tests
-
+Run command to run tests
+```sh
+npm run test
+```
 # API Documentation 
 https://documenter.getpostman.com/view/9054781/UUy7a3hR
 </br>Created with Postman API Documentation.
@@ -32,7 +48,7 @@ I use TypeScript Express.js and TypeORM to create REST API. Mocha and Chai for t
 
 2. I used MongoDb Atlas for database. It is free, cloud based and online. Better than local options.
 
-3. I used Express js for API operations. It is most starred npm package and great option for building API :).
+3. I used Express js for API operations. It is one of the most starred npm packages and a great option for building APIs :grinning:.
 
 4. I use Mocha and Chai for API test operations. I added tests for each operations.
 
